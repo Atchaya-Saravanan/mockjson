@@ -1,0 +1,39 @@
+{
+  "people": [
+    {
+      "id": 1,
+      "firstName": "Smitha",
+      "lastName": "Khan",
+      "birthDate": "1990-08-23",
+      "gender": "f",
+      "education": "post graduate",
+      "email": "smithakhan@gmail.com",
+      "nationality": "India",
+      "sportName": "basket ball",
+      "level": "national",
+      "profile": "Profile-02.jpg"
+    },
+    {
+      "firstName": "John",
+      "lastName": "Adams",
+      "birthDate": "1980-10-15",
+      "gender": "m",
+      "email": "johnadams@gmail.com",
+      "education": "Post Graduate",
+      "sportName": "Football",
+      "level": "International",
+      "id": 2
+    },
+    {
+      "firstName": "Luna",
+      "lastName": "Smith",
+      "birthDate": "1983-02-10",
+      "gender": "f",
+      "email": "lunasmith@gmail.com",
+      "education": "Graduate",
+      "sportName": "Gymnastics",
+      "level": "International",
+      "id": 3
+    }
+  ]
+}
